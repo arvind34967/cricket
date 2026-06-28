@@ -1,0 +1,24 @@
+CricketGame/
+├── Assets/
+│   ├── Scripts/
+│   │   ├── Game/
+│   │   │   ├── GameManager.cs
+│   │   │   ├── MatchController.cs
+│   │   │   └── ScoreManager.cs
+│   │   ├── Player/
+│   │   │   ├── BatsmanController.cs
+│   │   │   ├── BowlerController.cs
+│   │   │   └── FielderController.cs
+│   │   ├── Ball/
+│   │   │   ├── BallPhysics.cs
+│   │   │   └── BallTrajectory.cs
+│   │   ├── UI/
+│   │   │   ├── ScoreBoard.cs
+│   │   │   └── HUD.cs
+│   │   └── Graphics/
+│   │       ├── ParticleEffects.cs
+│   │       └── LightingManager.cs
+│   ├── Models/ (3D Models)
+│   ├── Animations/
+│   ├── Textures/
+│   └── Materials/
